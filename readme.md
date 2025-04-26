@@ -29,6 +29,7 @@ Gerenciamento de Custos do Azure
 ![WhatsApp Image 2025-04-26 at 05 02 18](https://github.com/user-attachments/assets/a54cf359-b6d0-4bc0-9591-96c26f8d602b)
 ![WhatsApp Image 2025-04-26 at 05 03 09](https://github.com/user-attachments/assets/196765db-a597-4bd8-857d-4079855d34ed)
 ![WhatsApp Image 2025-04-26 at 05 03 26](https://github.com/user-attachments/assets/bf9b64fb-7723-4fb8-83e2-c08abaf604c8)
+![grupo de recursos](https://github.com/user-attachments/assets/946be97e-09cb-4c44-8bf0-49a476bf4516)
 
 💡 Insights e Aprendizados
 
